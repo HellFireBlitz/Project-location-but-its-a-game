@@ -1,2 +1,2 @@
 # Project-location-but-its-a-game
-eh memz
+Project location is an inside project you should know nothing about it
